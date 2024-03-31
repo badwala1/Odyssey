@@ -1,0 +1,60 @@
+ID,Activity Name,Risk,Cultural,Wellness,Luxury,Budget,Family,Nature,Productive,Social,History,Distance from Purdue (miles)
+4,Exploring Indiana Dunes National Park,0.6,0.7,0.8,0.3,0.4,0.8,0.4,0.9,0.1,0.5,70
+5,Visiting Indianapolis Motor Speedway,0.4,0.8,0.3,0.8,0.4,0.7,0.4,0.6,0.3,0.7,65
+6,Canoeing on the Tippecanoe River,0.7,0.3,0.6,0.2,0.7,0.8,0.5,0.8,0.1,0.2,30
+7,Touring the Children's Museum of Indianapolis,0.1,0.9,0.4,0.7,0.5,0.9,0.1,0.3,0.5,0.8,55
+8,Attending the Indy Jazz Fest,0.3,0.6,0.7,0.4,0.6,0.6,0.4,0.5,0.7,0.3,70
+9,Hiking in Brown County State Park,0.6,0.4,0.8,0.3,0.7,0.8,0.6,0.8,0.2,0.3,90
+10,Visiting Conner Prairie Interactive History Park,0.3,0.9,0.5,0.5,0.6,0.7,0.2,0.4,0.8,0.7,45
+11,Attending the Indiana State Fair,0.5,0.6,0.4,0.6,0.5,0.8,0.4,0.4,0.7,0.5,55
+12,Exploring Marengo Cave,0.8,0.4,0.5,0.2,0.8,0.9,0.5,0.7,0.1,0.3,120
+13,Taking a boat tour on Lake Monroe,0.6,0.3,0.8,0.1,0.9,0.7,0.7,0.6,0.2,0.4,75
+14,Visiting the Eiteljorg Museum of American Indians and Western Art,0.2,0.9,0.6,0.5,0.6,0.8,0.1,0.4,0.8,0.8,60
+15,Attending the Indiana State Museum,0.4,0.6,0.5,0.7,0.5,0.8,0.3,0.3,0.7,0.6,50
+16,Exploring Turkey Run State Park,0.7,0.4,0.9,0.3,0.8,0.8,0.6,0.7,0.2,0.6,85
+17,Visiting the Indianapolis Zoo,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,65
+18,Taking a Hot Air Balloon Ride over central Indiana,0.3,0.6,0.8,0.2,0.9,0.7,0.8,0.5,0.3,0.7,70
+19,Attending the Indiana Artisan Marketplace,0.2,0.8,0.5,0.6,0.5,0.9,0.3,0.3,0.7,0.7,55
+20,Exploring Clifty Falls State Park,0.7,0.4,0.8,0.3,0.8,0.8,0.5,0.7,0.2,0.6,100
+21,Visiting the Indiana Medical History Museum,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,70
+22,Taking a scenic drive on Indiana's Covered Bridges Scenic Byway,0.3,0.6,0.8,0.2,0.9,0.7,0.8,0.5,0.3,0.7,85
+23,Attending a performance at the Indiana Repertory Theatre,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,60
+24,Exploring Prophetstown State Park,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,90
+25,Visiting the NCAA Hall of Champions,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,75
+26,Taking a wine tour in Indiana's wineries,0.4,0.8,0.5,0.6,0.5,0.9,0.3,0.3,0.7,0.7,60
+27,Attending the Indiana Comic Con,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,65
+28,Exploring Pokagon State Park,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,130
+29,Visiting the Fort Wayne Children's Zoo,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,110
+30,Taking a scenic train ride on the Indiana Railway Museum,0.3,0.6,0.8,0.2,0.9,0.7,0.8,0.5,0.3,0.7,80
+31,Attending the Indy Fringe Theatre Festival,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,70
+32,Exploring McCormick's Creek State Park,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,110
+33,Visiting the Indianapolis Museum of Art,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,60
+34,Taking a bike tour along the Indiana's Bicentennial Torch Relay route,0.3,0.6,0.8,0.2,0.9,0.7,0.8,0.5,0.3,0.7,80
+35,Attending the Indiana Renaissance Faire,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,70
+36,Exploring Shades State Park,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,120
+37,Visiting the Kurt Vonnegut Memorial Library,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,65
+38,Taking a brewery tour in Indianapolis,0.4,0.8,0.5,0.6,0.5,0.9,0.3,0.3,0.7,0.7,55
+39,Attending the Indy Winter Fest,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,65
+40,Exploring Mounds State Park,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,110
+41,Visiting the Hall of Heroes Superhero Museum,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,85
+42,Taking a kayak tour on the Wabash River,0.4,0.8,0.5,0.6,0.5,0.9,0.3,0.3,0.7,0.7,70
+43,Attending the IndyFringe Summer Theatre Festival,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,75
+44,Exploring Ouabache State Park,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,95
+45,Visiting the Studebaker National Museum,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,70
+46,Taking a ghost tour in downtown Indianapolis,0.4,0.8,0.5,0.6,0.5,0.9,0.3,0.3,0.7,0.7,60
+47,Attending the Indianapolis Symphony Orchestra,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,65
+48,Exploring Monroe Lake,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,100
+49,Visiting the Auburn Cord Duesenberg Automobile Museum,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,85
+50,Taking a farm tour at Fair Oaks Farms,0.4,0.8,0.5,0.6,0.5,0.9,0.3,0.3,0.7,0.7,80
+51,Attending the Brickworld LEGO Exposition,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,75
+52,Exploring Indiana Beach Amusement Park,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,130
+53,Visiting the Indiana Basketball Hall of Fame,0.2,0.7,0.5,0.7,0.5,0.9,0.3,0.4,0.8,0.6,90
+54,Taking a scenic drive on the Ohio River Scenic Byway,0.3,0.6,0.8,0.2,0.9,0.7,0.8,0.5,0.3,0.7,85
+55,Attending the Indy Film Fest,0.3,0.7,0.5,0.7,0.6,0.8,0.4,0.4,0.8,0.6,70
+56,Exploring Falls of the Ohio State Park,0.7,0.4,0.8,0.3,0.8,0.8,0.6,0.7,0.2,0.6,120
+57,Visiting the Prophetstown State Park,0.7,0.6,0.8,0.3,0.8,0.8,0.7,0.7,0.2,0.6,3
+58,Attending a basketball game at Mackey Arena,0.3,0.6,0.4,0.8,0.5,0.7,0.2,0.2,0.8,0.7,1
+59,Visiting the Purdue University Horticulture Gardens,0.2,0.8,0.4,0.6,0.4,0.8,0.7,0.3,0.5,0.6,0.5
+60,Exploring the Celery Bog Nature Area,0.4,0.7,0.6,0.5,0.5,0.8,0.9,0.4,0.4,0.7,2
+61,Attending a concert at Elliott Hall of Music,0.3,0.7,0.4,0.8,0.5,0.7,0.2,0.2,0.8,0.7,1.5
+62,Visit Harry's Chocolate Shop,0.8,0.5,0.1,0.4,0.6,0.2,0.2,0.2,0.9,0.7,0.5Y
