@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import openai
 from openai import OpenAI
 
-openai.api_key = "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"
+
 
 
 def generate_reviews(prompt, count=1):
